@@ -26,14 +26,6 @@ The final dashboard was built in Microsoft Excel using PivotTables, PivotCharts,
 
 It allows the user to explore Netflix's library between **2010 and 2021** and compare release trends, the movie/TV show mix, countries, and ratings.
 
-### Dashboard Preview
-
-![Netflix Dashboard](images/netflix-dashboard.png)
-
-> Replace `images/netflix-dashboard.png` with the actual path to your dashboard screenshot in the repository.
-
----
-
 ## Key Questions
 
 The analysis was guided by four main questions:
